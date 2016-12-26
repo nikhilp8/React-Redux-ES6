@@ -1,0 +1,1 @@
+console.log('Hi, this is React & Redux course using ES6');
